@@ -1,3 +1,5 @@
+package exercicios;
+
 import java.util.Random;
 import java.util.Scanner;
 
